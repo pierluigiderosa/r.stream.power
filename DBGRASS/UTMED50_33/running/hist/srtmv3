@@ -1,0 +1,10 @@
+Thu Dec  6 18:11:07 2018
+srtmv3
+running
+pierluigi
+raster
+
+
+generato da r.external
+r.external input="/home/pierluigi/Dropbox/uni/20181206105708_2086604\
+460_utm33_ed50.tif" output="srtmv3"

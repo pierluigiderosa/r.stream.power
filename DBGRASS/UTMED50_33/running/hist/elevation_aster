@@ -1,0 +1,10 @@
+Mon Oct 15 18:00:58 2018
+elevation1
+running
+pierluigi
+raster
+
+
+generato da r.in.gdal
+r.in.gdal input="/home/pierluigi/Scaricati/DEM_ASTER_23033.tif" outp\
+ut="elevation1" memory=300 offset=0 num_digits=0

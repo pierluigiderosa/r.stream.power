@@ -1,0 +1,3 @@
+COMMAND: v.external input="/home/pierluigi/Dropbox/OGRS2018/dati qgis/punti_topino.shp" layer="punti_topino" output="punti_topino"
+GISDBASE: /home/pierluigi/Sviluppo/discharge_abt/DBGRASS
+LOCATION: UTMED50_33 MAPSET: running USER: pierluigi DATE: Fri Apr 12 17:10:27 2019

@@ -1,0 +1,9 @@
+name: UTM
+datum: eur50
+towgs84: -87.000,-98.000,-121.000
+proj: utm
+ellps: international
+a: 6378388.0000000000
+es: 0.0067226700
+f: 297.0000000000
+zone: 33
